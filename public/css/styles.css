@@ -1,0 +1,29 @@
+/*button*/
+* {
+    font-family: "Roboto";
+}
+.btn-primary {
+    margin-top: 10px;
+}
+#create-button {
+    background-color: #e97d92;
+    border: 1px solid #e66982;
+    color: black;
+}
+
+/*table*/
+.table {
+    align-items: center;
+}
+.col-md-10 h1 {
+    font-size: 25px;
+}
+
+.col-md-10 {
+    align-items: center;
+    text-align: justify;
+    width: 100%;
+}
+.table th {
+    min-width: 25%;
+}
